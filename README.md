@@ -8,11 +8,18 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved
 
-  110. Balanced Binary Tree
-  102. Binary Tree Level Order Traversal
-  543. Diameter of Binary Tree
-  226. Invert Binary Tree
-  235. Lowest Common Ancestor of a Binary Search Tree
-  104. Maximum Depth of Binary Tree
-  100. Same Tree
-  572. Subtree of Another Tree
+  110.Balanced Binary Tree
+  
+  102.Binary Tree Level Order Traversal
+  
+  543.Diameter of Binary Tree
+  
+  226.Invert Binary Tree
+  
+  235.Lowest Common Ancestor of a Binary Search Tree
+  
+  104.Maximum Depth of Binary Tree
+  
+  100.Same Tree
+  
+  572.Subtree of Another Tree
